@@ -31,7 +31,7 @@ list_of_files = [
     'demo.py',
     'requirements.txt',
     'Dockerfile',
-    'setup.py'
+    'setup.py',
     ".dockerignore"
 ]
 
