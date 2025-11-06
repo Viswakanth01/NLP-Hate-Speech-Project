@@ -1,12 +1,12 @@
 # END TO END NLP PROJECT ON HATE SPEECH
 
 ## Project Workflows
-constants
-config_enity
-artifact_enity
-components
-pipeline
-app.py
+ - constants
+ - config_enity
+ - artifact_enity
+ - components
+ - pipeline
+ - app.py
 
 ## How to Run
 
